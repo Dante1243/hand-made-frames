@@ -1,5 +1,7 @@
 # Hand Made Frames: website rebuild mockup
 
+> **Pitch points below were written when the site was built and most haven't been rechecked.** **Lead status: not interested (called 24 Nov 2026).** Check each one on the live site, on a real phone, before saying it.
+
 Mockup redesign of http://handmadeframes.com.au for **Hand Made Frames**, the picture framing workshop run by Mick Howarth.
 
 - Workshop: 5/13 James Street, Fremantle WA 6160

@@ -102,7 +102,7 @@
     box.setAttribute("aria-label", "Photo viewer");
     box.setAttribute("aria-hidden", "true");
     box.innerHTML =
-      '<img alt="">' +
+      '<img alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">' +
       '<button class="lb-btn lb-close" type="button" aria-label="Close">&times;</button>' +
       '<button class="lb-btn lb-prev" type="button" aria-label="Previous photo">&#8249;</button>' +
       '<button class="lb-btn lb-next" type="button" aria-label="Next photo">&#8250;</button>' +
